@@ -1,3 +1,7 @@
+# Note
+
+This image is deprecated as there is a working, much smaller and alpine-based alternative available [here](https://github.com/joschi/docker-prosody-alpine).
+
 # Prosody Docker
 
 This is a Prosody Docker image.
